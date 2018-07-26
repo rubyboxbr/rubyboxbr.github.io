@@ -48,4 +48,4 @@ require 'Faker'
 end
 ```
 
-Importante adicionar `unique` para garantir que o Fake retorne dados unicos para cada execução.
+Importante adicionar `unique` para garantir que o Fake retorne dados únicos para cada execução.
