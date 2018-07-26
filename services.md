@@ -4,15 +4,18 @@ title: Serviços
 permalink: /services/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### Desenvolvimento full stack
+Seu projeto na internet.
+Criação do código fonte e publicação.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### Foco no resultado
+Valorizamos a colaboração com o cliente e entregamos
+valor ao final de cada *Sprint*.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### Tecnologia
+Ruby on Rails, Bootstrap, JavaScript, PostgreSQL e Heroku.
 
+#### Alguma dúvida?
+Agende uma reunião, queremos conhecer o seu projeto.
 
-[jekyll-organization]: https://github.com/jekyll
+[hello@rubybox.com.br](mailto:hello@rubybox.com.br)
