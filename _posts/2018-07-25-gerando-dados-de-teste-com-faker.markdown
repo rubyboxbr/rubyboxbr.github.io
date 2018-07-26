@@ -5,13 +5,13 @@ date:   2018-07-25 15:05:13 -0300
 categories: faker test
 ---
 
-Faker é uma biblioteca utilizada gerar dados aleatórios, como nomes, endereços e números de telefone.
+Faker é uma biblioteca utilizada para gerar dados aleatórios, como nomes, endereços e números de telefone.
 
 Esses dados podem ser usados em várias situações durante o desenvolvimento de um produto, desde a implementação de um teste ou uma carga aleatória na base de dados.
 
 Imagine uma situação onde você queira visualizar o comportamento do seu produto com 1000 clientes cadastrados, com Faker isso fica bem simples.
 
-Você pode acompanhar mais detalhes do projeto na página [https://github.com/stympy/faker](https://github.com/stympy/faker){:target='_blank'}
+Você pode acompanhar mais detalhes do projeto na página [https://github.com/stympy/faker](https://github.com/stympy/faker){:target='_blank'}.
 
 ### Utilizando o Faker
 
