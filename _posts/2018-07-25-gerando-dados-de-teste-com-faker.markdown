@@ -2,7 +2,8 @@
 layout: post
 title:  "Gerando dados de teste com Faker"
 date:   2018-07-25 15:05:13 -0300
-categories: faker test
+author: Og Rafael
+categories: test
 ---
 
 Faker é uma biblioteca utilizada para gerar dados aleatórios, como nomes, endereços e números de telefone.
@@ -31,14 +32,14 @@ Faker::Name.name      #=> "Christophe Bartell"
 Faker::Internet.email #=> "kirsten.greenholt@corkeryfisher.info"
 ```
 
-### Cadastrando 1000 clientes na base de dados
+### Inserindo 1000 clientes na Base de Dados
 
 Agora vamos supor que o Model que representa os seus clientes é a classe `User` com os atributos `name` e `email`.
 
-Caso você queira cadastrar 1000 clientes na base de dados com nomes e emails aleatórios, basta utilizar o Faker.
+Para inserir os 1000 clientes na base de dados com nomes e emails aleatórios, basta utilizar o Faker.
 
 ```ruby
-require 'Faker'
+require 'faker'
 
 1000.times do
   User.create(
